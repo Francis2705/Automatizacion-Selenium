@@ -6,7 +6,7 @@ Este proyecto automatiza la interacción con el formulario de contacto del sitio
 
 ## 📝 Descripción
 
-El programa abre el sitio web de Consultoría Global, navega a la sección de contacto, completa el formulario con datos simulados (incluyendo un correo inválido para provocar errores y un capta cualquiera) y presiona el botón de "Enviar". Finalmente, captura el mensaje de error que se muestra en pantalla y lo muestra en la consola.
+El programa abre el sitio web de Consultoría Global, navega a la sección de contacto, completa el formulario con datos simulados (incluyendo un correo inválido para provocar errores y un captcha cualquiera) y presiona el botón de "Enviar". Finalmente, captura el mensaje de error que se muestra en pantalla y lo muestra en la consola.
 
 Es un código simple, que fue realizado como requisito para pasar una entrevista técnica en la consultoría.
 
