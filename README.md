@@ -20,7 +20,7 @@ Es un código simple, que fue realizado como requisito para pasar una entrevista
 
 - JDK 17 o superior
 - Google Chrome instalado
-- El ejecutable `chromedriver.exe` compatible con tu versión de Chrome (colocado en la carpeta `driver/`)
+- El ejecutable `chromedriver.exe` compatible con la versión de Chrome (colocado en la carpeta `driver/`)
 
 ## 📦 Dependencias externas
 
