@@ -24,7 +24,7 @@ Es un código simple, que fue realizado como requisito para pasar una entrevista
 
 ## 📦 Dependencias externas
 
-Agregá el JAR de Selenium WebDriver en tu proyecto. Podés usar Maven/Gradle o descargarlo manualmente desde:
+Agregar el JAR de Selenium WebDriver en el proyecto. Se puede usar Maven/Gradle o descargarlo manualmente desde:
 
 - [Página Selenium oficial](https://www.selenium.dev/downloads)
 
@@ -33,12 +33,12 @@ También, se debe tener en cuenta la versión del driver y de Google Chrome:
 - [Descargar driver de Google Chrome](https://developer.chrome.com/docs/chromedriver/downloads/version-selection?hl=es-419)
 - [Versiones](https://googlechromelabs.github.io/chrome-for-testing/)
 
-Asegurate de incluir:
+Asegurarse de incluir:
 
 - `selenium-java-4.x.x.jar`
 - Y las dependencias que vienen en la carpeta `libs/` del `.zip` descargado
 
-## ❕ Aclaración
+## ❗ Aclaración
 
 Este proyecto fue realizado en Visual Studio Code, de manera tal que ya se incluye la carpeta .vscode para que el código se ejecute correctamente. Dependiendo del IDE en el que se ejecute, se deberá configurar el entorno correctamente para que funcione.
 
